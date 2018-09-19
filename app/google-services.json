@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934016782874",
+    "firebase_url": "https://iotflood.firebaseio.com",
+    "project_id": "iotflood",
+    "storage_bucket": "iotflood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934016782874:android:8ab3f7a52cb5bc1b",
+        "android_client_info": {
+          "package_name": "com.example.rajitha.floodalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934016782874-edrgo4v9kujsoqcr31o5pnvqj8ml62ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajitha.floodalarm",
+            "certificate_hash": "f82c7aadaf84a8d8ba2040dfb9d904ebd495f295"
+          }
+        },
+        {
+          "client_id": "934016782874-o33l9pi1umnelcj1bs5prov5flr6uvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxoHE3Eg4lFKLEeMA-3497ez57f0Cy1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934016782874-o33l9pi1umnelcj1bs5prov5flr6uvs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
